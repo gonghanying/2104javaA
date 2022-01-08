@@ -8,7 +8,7 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 @SpringBootApplication
 public class EurekaApplication {
     /**
-     *这是测试者李四
+     *这是测试者这还是那个上海
      */
     public static void main(String[] args) {
         SpringApplication.run(EurekaApplication.class, args);
